@@ -1,7 +1,0 @@
-name: Publish Document
-account: rpubs
-server: rpubs.com
-bundleId:
-        https://api.rpubs.com/api/v1/document/173362/555a1e65e64244998b9a93f7539a5100
-url: http://rpubs.com/sujit_sikder/173362
-when: 1461261786.10629

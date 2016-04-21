@@ -39,3 +39,18 @@ ggmap(mapSatt)
 
 ```
 
+
+### get Google satellite data
+
+```{r, echo=TRUE}
+mapHybird<-get_map(location='Germany', zoom=4, maptype = "hybrid", source='google',color='color') # just change maptype
+
+```
+
+
+### plot map with sattellite data
+```{r, echo=TRUE}
+ggmap(mapHybird)
+
+```
+
